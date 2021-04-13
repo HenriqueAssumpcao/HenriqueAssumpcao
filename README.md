@@ -13,3 +13,4 @@
 ![scikitlearn](https://img.shields.io/badge/scikit--learn-profficient-blue)
 ![numpy](https://img.shields.io/badge/NumPy-profficient-blue)
 ![pandas](https://img.shields.io/badge/Pandas-profficient-lightgrey)
+![scipy](https://img.shields.io/badge/SciPy-profficient-blue)
