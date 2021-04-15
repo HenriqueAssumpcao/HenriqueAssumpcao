@@ -13,6 +13,8 @@
 ![numpy](https://img.shields.io/badge/NumPy-profficient-blue)
 ![pandas](https://img.shields.io/badge/Pandas-profficient-blue)
 ![scipy](https://img.shields.io/badge/SciPy-profficient-blue)
+![dgl](https://img.shields.io/badge/DGL-profficient-blue)
+![transformers](https://img.shields.io/badge/transformers-profficient-blue)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-beginner-yellow)
 ## → Social Media Links
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HenrySilvaCS)
