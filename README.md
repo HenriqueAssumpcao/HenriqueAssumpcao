@@ -7,6 +7,9 @@
 ![SQL](https://img.shields.io/badge/SQL-competent-orange)
 ![Java](https://img.shields.io/badge/Java-competent-orange)
 ![Linux](https://img.shields.io/badge/Linux-beginner-yellow)
+![R](https://img.shields.io/badge/R-beginner-yellow)
+![C#](https://img.shields.io/badge/C%23-beginner-yellow)
+
 ## → Technologies I know
 ![pytorch](https://img.shields.io/badge/Pytorch-profficient-blue)
 ![scikitlearn](https://img.shields.io/badge/scikit--learn-profficient-blue)
@@ -16,6 +19,7 @@
 ![dgl](https://img.shields.io/badge/DGL-profficient-blue)
 ![transformers](https://img.shields.io/badge/transformers-profficient-blue)
 ![tensorflow](https://img.shields.io/badge/TensorFlow-beginner-yellow)
+![CUDA](https://img.shields.io/badge/CUDA-beginner-yellow)
 ## → Social Media Links
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HenrySilvaCS)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrysilvacs/?locale=en_US)
