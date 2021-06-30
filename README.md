@@ -8,6 +8,7 @@
 ![Linux](https://img.shields.io/badge/Linux-beginner-yellow)
 ![R](https://img.shields.io/badge/R-beginner-yellow)
 ![C#](https://img.shields.io/badge/C%23-beginner-yellow)
+![Verilog](https://img.shields.io/badge/Verilog-beginner-yellow)
 
 ## → Technologies I know
 ![pytorch](https://img.shields.io/badge/Pytorch-profficient-blue)
