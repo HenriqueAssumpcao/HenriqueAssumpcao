@@ -12,15 +12,13 @@
 
 ## → Technologies I know
 ![pytorch](https://img.shields.io/badge/Pytorch-profficient-blue)
-![scikitlearn](https://img.shields.io/badge/scikit--learn-profficient-blue)
+![Git](https://img.shields.io/badge/Git-profficient-blue)
+![AWS Sagemaker](https://img.shields.io/badge/AWS%20Sagemaker-profficient-blue)
+![dgl.ai](https://img.shields.io/badge/dgl.ai-profficient-blue)
 ![numpy](https://img.shields.io/badge/NumPy-profficient-blue)
 ![pandas](https://img.shields.io/badge/Pandas-profficient-blue)
 ![scipy](https://img.shields.io/badge/SciPy-profficient-blue)
-![dgl.ai](https://img.shields.io/badge/dgl.ai-profficient-blue)
-![transformers](https://img.shields.io/badge/transformers-profficient-blue)
-![XGBoost](https://img.shields.io/badge/XGBoost-profficient-blue)
-![Git](https://img.shields.io/badge/Git-profficient-blue)
-![tensorflow](https://img.shields.io/badge/TensorFlow-beginner-yellow)
+![tensorflow](https://img.shields.io/badge/TensorFlow-competent-orange)
 ![CUDA](https://img.shields.io/badge/CUDA-beginner-yellow)
 ## → Social Media Links
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HenrySilvaCS)
