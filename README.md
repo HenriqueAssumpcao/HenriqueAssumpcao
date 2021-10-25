@@ -12,8 +12,8 @@
 
 ## → Technologies I know
 ![pytorch](https://img.shields.io/badge/Pytorch-profficient-blue)
-![Git](https://img.shields.io/badge/Git-profficient-blue)
 ![AWS Sagemaker](https://img.shields.io/badge/AWS%20Sagemaker-profficient-blue)
+![Git](https://img.shields.io/badge/Git-profficient-blue)
 ![dgl.ai](https://img.shields.io/badge/dgl.ai-profficient-blue)
 ![numpy](https://img.shields.io/badge/NumPy-profficient-blue)
 ![pandas](https://img.shields.io/badge/Pandas-profficient-blue)
