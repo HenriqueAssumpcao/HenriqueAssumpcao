@@ -5,7 +5,6 @@
 ![c](https://img.shields.io/badge/C-profficient-blue)
 ![SQL](https://img.shields.io/badge/SQL-profficient-blue)
 ![Java](https://img.shields.io/badge/Java-competent-orange)
-![Linux](https://img.shields.io/badge/Linux-beginner-yellow)
 ![R](https://img.shields.io/badge/R-beginner-yellow)
 ![C#](https://img.shields.io/badge/C%23-beginner-yellow)
 ![Verilog](https://img.shields.io/badge/Verilog-beginner-yellow)
