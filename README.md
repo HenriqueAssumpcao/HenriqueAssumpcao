@@ -48,7 +48,7 @@ disorder online communities.](https://www.sciencedirect.com/science/article/abs/
 ![Git](https://img.shields.io/badge/Git-profficient-blue)
 
 ### → Soft Skills
-English, French, Brazilian Portuguese
+English(C2), French(B1), Brazilian Portuguese(Native)
 
 ## → Connect with me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrysilvacs/?locale=en_US)
