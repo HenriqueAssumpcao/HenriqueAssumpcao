@@ -16,9 +16,9 @@ disorder online communities.](https://www.sciencedirect.com/science/article/abs/
 
 ## → What I Know
 ### → Languages
-![python](https://img.shields.io/badge/Python-profficient-blue)
-![cpp](https://img.shields.io/badge/C%2B%2B-profficient-blue)
-![c](https://img.shields.io/badge/C-profficient-blue)
+![python](https://img.shields.io/badge/Python-proficient-blue)
+![cpp](https://img.shields.io/badge/C%2B%2B-proficient-blue)
+![c](https://img.shields.io/badge/C-proficient-blue)
 ![Haskell](https://img.shields.io/badge/Haskell-competent-orange)
 ![StandardML](https://img.shields.io/badge/StandardML-competent-orange)
 ![C#](https://img.shields.io/badge/C%23-competent-orange)
@@ -27,26 +27,26 @@ disorder online communities.](https://www.sciencedirect.com/science/article/abs/
 ![R](https://img.shields.io/badge/R-beginner-yellow)
 ![Verilog](https://img.shields.io/badge/Verilog-beginner-yellow)
 ### → General Machine Learning Tools
-![pytorch](https://img.shields.io/badge/Pytorch-profficient-blue)
-![tensorflow](https://img.shields.io/badge/TensorFlow-profficient-blue)
+![pytorch](https://img.shields.io/badge/Pytorch-proficient-blue)
+![tensorflow](https://img.shields.io/badge/TensorFlow-proficient-blue)
 ### → Specific Machine Learning Tools
-![dgl.ai](https://img.shields.io/badge/dgl.ai-profficient-blue)
-![StellarGraph](https://img.shields.io/badge/StellarGraph-profficient-blue)
-![HuggingFaceTransformers](https://img.shields.io/badge/HuggingFaceTransformers-profficient-blue)
+![dgl.ai](https://img.shields.io/badge/dgl.ai-proficient-blue)
+![StellarGraph](https://img.shields.io/badge/StellarGraph-proficient-blue)
+![HuggingFaceTransformers](https://img.shields.io/badge/HuggingFaceTransformers-proficient-blue)
 ### → Data Manipulation and Analysis Tools
-![numpy](https://img.shields.io/badge/NumPy-profficient-blue)
-![pandas](https://img.shields.io/badge/Pandas-profficient-blue)
-![scipy](https://img.shields.io/badge/SciPy-profficient-blue)
-![scikit-learn](https://img.shields.io/badge/sklearn-profficient-blue)
+![numpy](https://img.shields.io/badge/NumPy-proficient-blue)
+![pandas](https://img.shields.io/badge/Pandas-proficient-blue)
+![scipy](https://img.shields.io/badge/SciPy-proficient-blue)
+![scikit-learn](https://img.shields.io/badge/sklearn-proficient-blue)
 ### → MLOps
-![AWS Sagemaker](https://img.shields.io/badge/AWS%20Sagemaker-profficient-blue)
-![AWS Elastic Inference](https://img.shields.io/badge/AWS%20Elastic%20Inference-profficient-blue)
+![AWS Sagemaker](https://img.shields.io/badge/AWS%20Sagemaker-proficient-blue)
+![AWS Elastic Inference](https://img.shields.io/badge/AWS%20Elastic%20Inference-proficient-blue)
 ### → Backend
-![MySQL](https://img.shields.io/badge/MySQL-profficient-blue)
-![SQLite](https://img.shields.io/badge/SQLite-profficient-blue)
+![MySQL](https://img.shields.io/badge/MySQL-proficient-blue)
+![SQLite](https://img.shields.io/badge/SQLite-proficient-blue)
 ![Docker](https://img.shields.io/badge/Docker-competent-orange)
 ### → DevOps
-![Git](https://img.shields.io/badge/Git-profficient-blue)
+![Git](https://img.shields.io/badge/Git-proficient-blue)
 
 ### → Soft Skills
 English(C2), Spanish(B2), French(B1), Brazilian Portuguese(Native)
