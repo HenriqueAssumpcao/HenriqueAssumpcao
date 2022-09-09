@@ -21,7 +21,7 @@ disorder online communities.](https://www.sciencedirect.com/science/article/abs/
 ![Haskell](https://img.shields.io/badge/Haskell-competent-orange)
 ![StandardML](https://img.shields.io/badge/StandardML-competent-orange)
 ![C#](https://img.shields.io/badge/C%23-competent-orange)
-![CUDA](https://img.shields.io/badge/CUDA-competent-orange)
+![CUDA C++](https://img.shields.io/badge/CUDAC++-competent-orange)
 ![Java](https://img.shields.io/badge/Java-competent-orange)
 ![R](https://img.shields.io/badge/R-beginner-yellow)
 ![Verilog](https://img.shields.io/badge/Verilog-beginner-yellow)
