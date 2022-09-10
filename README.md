@@ -53,7 +53,3 @@ English(Fluent), Spanish(Intermediate), French(Beginner), Brazilian Portuguese(N
 ## → Connect with me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrysilvacs/?locale=en_US)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HenrySilvaCS)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenrySilvaCS&show_icons=true&locale=en&layout=compact" alt="HenrySilvaCS" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HenrySilvaCS&show_icons=true&locale=en" alt="HenrySilvaCS" /></p>
