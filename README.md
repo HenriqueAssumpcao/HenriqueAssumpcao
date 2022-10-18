@@ -18,11 +18,10 @@ disorder online communities.](https://www.sciencedirect.com/science/article/abs/
 ![python](https://img.shields.io/badge/Python-proficient-blue)
 ![cpp](https://img.shields.io/badge/C%2B%2B-proficient-blue)
 ![c](https://img.shields.io/badge/C-proficient-blue)
+![Java](https://img.shields.io/badge/Java-proficient-blue)
 ![Haskell](https://img.shields.io/badge/Haskell-competent-orange)
 ![StandardML](https://img.shields.io/badge/StandardML-competent-orange)
 ![C#](https://img.shields.io/badge/C%23-competent-orange)
-![CUDA C++](https://img.shields.io/badge/CUDAC++-competent-orange)
-![Java](https://img.shields.io/badge/Java-competent-orange)
 ![R](https://img.shields.io/badge/R-beginner-yellow)
 ![Verilog](https://img.shields.io/badge/Verilog-beginner-yellow)
 ### → General Machine Learning Tools
