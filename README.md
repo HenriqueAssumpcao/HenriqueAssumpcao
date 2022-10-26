@@ -8,7 +8,7 @@ Currently working as a machine learning researcher at UFMG. My current research 
 
 ## → Publications
 * 2022: Henrique S. Assumpção, Fabrício Souza, Leandro Lacerda Campos, Vinícius T. de Castro Pires, Paulo M. Laurentys de
-Almeira, Fabricio Murai. [DELATOR: Money Laundering Detection via Multi-Task Learning on Large Transaction Graphs](). In *2022 IEEE International Conference on Big Data.*
+Almeira, Fabricio Murai. [DELATOR: Money Laundering Detection via Multi-Task Learning on Large Transaction Graphs](https://arxiv.org/abs/2205.10293#). Accepted for publication in the *2022 IEEE International Conference on Big Data (IEEE BigData).*
 * 2022: Henrique S. Assumpção, Fabrício Souza, Leandro Lacerda Campos, Vinícius T. de Castro Pires, Paulo M. Laurentys de
 Almeira, Fabricio Murai. [Delator: Automatic Detection of Money Laundering Evidence on Transaction Graphs via Neural
 Networks](https://sol.sbc.org.br/index.php/brasnam/article/view/20513). *Annals of the XI Brazilian Workshop on Social Network Analysis and Mining*. Awarded Best Paper.
