@@ -20,6 +20,7 @@ disorder online communities](https://www.sciencedirect.com/science/article/abs/p
 ![python](https://img.shields.io/badge/Python-proficient-blue)
 ![cpp](https://img.shields.io/badge/C%2B%2B-proficient-blue)
 ![c](https://img.shields.io/badge/C-proficient-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-proficient-blue)
 ![Java](https://img.shields.io/badge/Java-proficient-blue)
 ![Haskell](https://img.shields.io/badge/Haskell-competent-orange)
 ![StandardML](https://img.shields.io/badge/StandardML-competent-orange)
