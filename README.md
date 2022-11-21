@@ -2,8 +2,8 @@
 <h3 align="center">Computer Science Student from Belo Horizonte, Brazil</h3>
 
 Currently working as a machine learning researcher at UFMG. My current research topics/interests are:
-* Graph Neural Networks and Geometric Learning
-* Complex Networks and Dynamic Graphs
+* Graph Representation Learning
+* Geometric Learning and Theoretical aspects of GNNs
 * Reinforcement Learning
 
 ## → Publications
