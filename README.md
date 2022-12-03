@@ -3,20 +3,23 @@
 
 Currently working as a machine learning researcher at UFMG. My current research topics/interests are:
 * Graph Representation Learning
-* Geometric Learning and Theoretical aspects of GNNs
+* Geometric Learning and Graph Theory
 * Reinforcement Learning
 
 ## → Publications
-* 2022: Henrique S. Assumpção, Fabrício Souza, Leandro Lacerda Campos, Vinícius T. de Castro Pires, Paulo M. Laurentys de
-Almeira, Fabricio Murai. [DELATOR: Money Laundering Detection via Multi-Task Learning on Large Transaction Graphs](https://arxiv.org/abs/2205.10293#). Accepted for publication in the *2022 IEEE International Conference on Big Data (IEEE BigData).*
-* 2022: Henrique S. Assumpção, Fabrício Souza, Leandro Lacerda Campos, Vinícius T. de Castro Pires, Paulo M. Laurentys de
+### → Conference Papers
+* Henrique S. Assumpção, Fabrício Souza, Leandro Lacerda Campos, Vinícius T. de Castro Pires, Paulo M. Laurentys de
+Almeira, Fabricio Murai. [DELATOR: Money Laundering Detection via Multi-Task Learning on Large Transaction Graphs](https://arxiv.org/abs/2205.10293#). In *IEEE International Conference on Big Data (IEEE BigData)*, 2022.
+### → Journal Papers
+* Bárbara Silveira, Henrique S. Silva, Fabricio Murai, Ana Paula C. da Silva. [Predicting user emotional tone in mental
+disorder online communities](https://www.sciencedirect.com/science/article/abs/pii/S0167739X21002764?via%3Dihub). *Future Generation Computer Systems*, 2021.
+### → Refereed Workshop Papers
+* Henrique S. Assumpção, Fabrício Souza, Leandro Lacerda Campos, Vinícius T. de Castro Pires, Paulo M. Laurentys de
 Almeira, Fabricio Murai. [Delator: Automatic Detection of Money Laundering Evidence on Transaction Graphs via Neural
-Networks](https://sol.sbc.org.br/index.php/brasnam/article/view/20513). *Annals of the XI Brazilian Workshop on Social Network Analysis and Mining*. Awarded Best Paper.
-* 2021: Bárbara Silveira, Henrique S. Silva, Fabricio Murai, Ana Paula C. da Silva. [Predicting user emotional tone in mental
-disorder online communities](https://www.sciencedirect.com/science/article/abs/pii/S0167739X21002764?via%3Dihub). *Future Generation Computer Systems*.
+Networks](https://sol.sbc.org.br/index.php/brasnam/article/view/20513). In *Brazilian Workshop on Social Network Analysis and Mining (BraSNAM)*, 2022.
 
-## → What I Know
-### → Languages
+## → Skills
+### → Programming Languages
 ![python](https://img.shields.io/badge/Python-proficient-blue)
 ![cpp](https://img.shields.io/badge/C%2B%2B-proficient-blue)
 ![c](https://img.shields.io/badge/C-proficient-blue)
