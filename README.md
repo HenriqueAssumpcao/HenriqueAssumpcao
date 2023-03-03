@@ -3,7 +3,7 @@
 
 Currently working as a machine learning researcher at UFMG. My current research topics/interests are:
 * Graph Representation Learning
-* Geometric Learning and Graph Theory
+* Geometric Learning and Spectral Graph Theory
 * Reinforcement Learning
 
 ## → Publications
