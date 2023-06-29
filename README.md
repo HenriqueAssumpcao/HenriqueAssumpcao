@@ -20,6 +20,7 @@ Networks](https://sol.sbc.org.br/index.php/brasnam/article/view/20513). In *Braz
 ![python](https://img.shields.io/badge/Python-proficient-blue)
 ![cpp](https://img.shields.io/badge/C%2B%2B-proficient-blue)
 ![c](https://img.shields.io/badge/C-proficient-blue)
+![JavaScript](https://img.shields.io/badge/Rust-proficient-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-proficient-blue)
 ![Java](https://img.shields.io/badge/Java-proficient-blue)
 ![Haskell](https://img.shields.io/badge/Haskell-competent-orange)
