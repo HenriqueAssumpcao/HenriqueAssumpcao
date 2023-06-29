@@ -1,10 +1,7 @@
 # Hi! I'm Henrique Assumpção
 <h3 align="center">Computer Science Student from Belo Horizonte, Brazil</h3>
 
-Currently working as a machine learning researcher at UFMG. My current research topics/interests are:
-* Graph Representation Learning
-* Geometric Learning and Spectral Graph Theory
-* Reinforcement Learning
+Currently working as a machine learning researcher at UFMG.
 
 ## → Publications
 ### → Conference Papers
