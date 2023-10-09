@@ -1,7 +1,7 @@
 # Hi! I'm Henrique Assumpção
 <h3 align="center">Computer Science Student from Belo Horizonte, Brazil</h3>
 
-Currently working as a machine learning researcher at UFMG.
+Currently working as an undergraduate researcher at UFMG.
 
 ## → Publications
 ### → Conference Papers
