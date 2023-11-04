@@ -10,10 +10,6 @@ Almeira, Fabricio Murai. [DELATOR: Money Laundering Detection via Multi-Task Lea
 ### → Journal Papers
 * Bárbara Silveira, **Henrique S. Silva**, Fabricio Murai, Ana Paula C. da Silva. [Predicting user emotional tone in mental
 disorder online communities](https://www.sciencedirect.com/science/article/abs/pii/S0167739X21002764?via%3Dihub). *Future Generation Computer Systems*, 2021.
-### → Refereed Workshop Papers
-* **Henrique S. Assumpção**, Fabrício Souza, Leandro Lacerda Campos, Vinícius T. de Castro Pires, Paulo M. Laurentys de
-Almeira, Fabricio Murai. [Delator: Automatic Detection of Money Laundering Evidence on Transaction Graphs via Neural
-Networks](https://sol.sbc.org.br/index.php/brasnam/article/view/20513). In *Brazilian Workshop on Social Network Analysis and Mining (BraSNAM)*, 2022.
 
 ## → Skills
 ### → Programming Languages
